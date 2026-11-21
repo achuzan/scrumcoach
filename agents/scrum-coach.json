@@ -1,0 +1,25 @@
+{
+  "id": "scrum-coach",
+  "name": "Scrum Coach",
+  "instructions": "agents/scrum-coach.instructions.md",
+  "documents": [
+    {
+      "id": "guidance",
+      "path": "knowledge/guidance",
+      "authority": 1,
+      "label": "Your guidance"
+    },
+    {
+      "id": "scrum-guide",
+      "path": "knowledge/scrum-guide",
+      "authority": 2,
+      "label": "Scrum Guide (2020)"
+    },
+    {
+      "id": "expansion",
+      "path": "knowledge/expansion",
+      "authority": 3,
+      "label": "Scrum Guide Expansion Pack"
+    }
+  ]
+}

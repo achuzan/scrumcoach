@@ -1,0 +1,98 @@
+[
+  {
+    "id": "adaptive-enterprise",
+    "version": "2026.1",
+    "file": "adaptive-enterprise.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/adaptive-enterprise/2026.1/index.md"
+  },
+  {
+    "id": "adaptive-executive",
+    "version": "2026.1",
+    "file": "adaptive-executive.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/adaptive-executive/2026.1/index.md"
+  },
+  {
+    "id": "ai-and-scrum",
+    "version": "2026.1",
+    "file": "ai-and-scrum.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/ai-and-scrum/2026.1/index.md"
+  },
+  {
+    "id": "complexity",
+    "version": "2026.1",
+    "file": "complexity.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/complexity/2026.1/index.md"
+  },
+  {
+    "id": "emergent-strategy-and-depoyment",
+    "version": "2026.1",
+    "file": "emergent-strategy-and-depoyment.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/emergent-strategy-and-depoyment/2026.1/index.md"
+  },
+  {
+    "id": "holistic-testing",
+    "version": "2026.1",
+    "file": "holistic-testing.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/holistic-testing/2026.1/index.md"
+  },
+  {
+    "id": "multi-team-scrum",
+    "version": "2026.1",
+    "file": "multi-team-scrum.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/multi-team-scrum/2026.1/index.md"
+  },
+  {
+    "id": "operating-models",
+    "version": "2026.1",
+    "file": "operating-models.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/operating-models/2026.1/index.md"
+  },
+  {
+    "id": "planguage",
+    "version": "2026.1",
+    "file": "planguage.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/planguage/2026.1/index.md"
+  },
+  {
+    "id": "product-thinking",
+    "version": "2026.1",
+    "file": "product-thinking.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/product-thinking/2026.1/index.md"
+  },
+  {
+    "id": "psychological-safety-in-scrum-teams",
+    "version": "2026.1",
+    "file": "psychological-safety-in-scrum-teams.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/psychological-safety-in-scrum-teams/2026.1/index.md"
+  },
+  {
+    "id": "refinement",
+    "version": "2026.11",
+    "file": "refinement.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/refinement/2026.11/index.md"
+  },
+  {
+    "id": "scrum-guide-expanded",
+    "version": "2026.1",
+    "file": "scrum-guide-expanded.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/scrum-guide-expanded/2026.1/index.md"
+  },
+  {
+    "id": "scrum-on-one-page",
+    "version": "2026.1",
+    "file": "scrum-on-one-page.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/scrum-on-one-page/2026.1/index.md"
+  },
+  {
+    "id": "software-engineering-practices",
+    "version": "2026.1",
+    "file": "software-engineering-practices.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/software-engineering-practices/2026.1/index.md"
+  },
+  {
+    "id": "strategy-as-an-empirical-capability",
+    "version": "2026.1",
+    "file": "strategy-as-an-empirical-capability.md",
+    "source": "https://raw.githubusercontent.com/ScrumGuides/ScrumGuide-ExpansionPack/main/site/content/strategy-as-an-empirical-capability/2026.1/index.md"
+  }
+]
